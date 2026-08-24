@@ -64,3 +64,8 @@ build/
 *.egg-info/
 
 
+# Dependency snapshots
+backend/requirements/installed.txt
+
+
+
